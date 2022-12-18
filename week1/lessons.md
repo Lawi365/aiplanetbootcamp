@@ -18,3 +18,8 @@
 ### `Recorded session intro to neral nets and its working.`
 2.watch ai planet intro video available on youtube.[https://youtu.be/gdkrXWhs2wA]
 
+### `Session slide : intro to deep neural nets`
+### `setting up tensor flow`
+### `intro to tf.keras`
+### `neraul nets for regression vid`
+### `notebook`
