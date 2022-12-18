@@ -1,4 +1,5 @@
-Outline
+### `Introduction to Deep Learning`
+1.Outline
 * intro to deep learning & its application
 * Learning objectives
 * cool deep learning applicatons.
@@ -12,5 +13,8 @@ Outline
 *     social media
 *     virtual personal assistants
 *     Healthcare.
-*  deeep learning frameworks.
+*  deep learning frameworks.
 *     pytorch vs Keras
+### `Recorded session intro to neral nets and its working.`
+2.watch ai planet intro video available on youtube.[https://youtu.be/gdkrXWhs2wA]
+
